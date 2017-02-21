@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Magic 8-Ball.xcscheme</key>
+		<key>Modern Magic 8-Ball.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F4FC34071E5BBA87009C1292</key>
+		<key>F4FC34251E5CD3F2009C1292</key>
 		<dict>
 			<key>primary</key>
 			<true/>

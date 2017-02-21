@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4FC34071E5BBA87009C1292"
-               BuildableName = "Magic 8-Ball.app"
-               BlueprintName = "Magic 8-Ball"
-               ReferencedContainer = "container:Magic 8-Ball.xcodeproj">
+               BlueprintIdentifier = "F4FC34251E5CD3F2009C1292"
+               BuildableName = "Modern Magic 8-Ball.app"
+               BlueprintName = "Modern Magic 8-Ball"
+               ReferencedContainer = "container:Modern Magic 8-Ball.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FC34071E5BBA87009C1292"
-            BuildableName = "Magic 8-Ball.app"
-            BlueprintName = "Magic 8-Ball"
-            ReferencedContainer = "container:Magic 8-Ball.xcodeproj">
+            BlueprintIdentifier = "F4FC34251E5CD3F2009C1292"
+            BuildableName = "Modern Magic 8-Ball.app"
+            BlueprintName = "Modern Magic 8-Ball"
+            ReferencedContainer = "container:Modern Magic 8-Ball.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FC34071E5BBA87009C1292"
-            BuildableName = "Magic 8-Ball.app"
-            BlueprintName = "Magic 8-Ball"
-            ReferencedContainer = "container:Magic 8-Ball.xcodeproj">
+            BlueprintIdentifier = "F4FC34251E5CD3F2009C1292"
+            BuildableName = "Modern Magic 8-Ball.app"
+            BlueprintName = "Modern Magic 8-Ball"
+            ReferencedContainer = "container:Modern Magic 8-Ball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4FC34071E5BBA87009C1292"
-            BuildableName = "Magic 8-Ball.app"
-            BlueprintName = "Magic 8-Ball"
-            ReferencedContainer = "container:Magic 8-Ball.xcodeproj">
+            BlueprintIdentifier = "F4FC34251E5CD3F2009C1292"
+            BuildableName = "Modern Magic 8-Ball.app"
+            BlueprintName = "Modern Magic 8-Ball"
+            ReferencedContainer = "container:Modern Magic 8-Ball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

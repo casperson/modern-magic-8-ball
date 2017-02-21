@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Magic 8-Ball
+//  Modern Magic 8-Ball
 //
-//  Created by Braden Casperson on 2/20/17.
+//  Created by Braden Casperson on 2/21/17.
 //  Copyright © 2017 Braden Casperson. All rights reserved.
 //
 

@@ -9,13 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet var mainScreenView: UIView!
     @IBOutlet weak var answerLabel: UILabel!
     
     let positiveAnswers = ["Heck yeah!", "Most Definitely", "You'd be crazy not to.", "There's a good chance.", "It's worth a shot.", "Absolutely."]
     let middleAnswers = ["Uhhh, ask me again later.", "Wow, this is a toughie. I'm going to have to think about this a little more.", "It really doesn't matter."]
-    let negativeAnswers = ["Don't you dare.", "Nope, sorry.", "Probably not the best choice.", "You may as well forget you ever asked that; bad idea.", "Terrible choice.", "No. Just no."]
+    let negativeAnswers = ["Don't you dare.", "Nope, sorry.", "Probably not the best choice.", "You may as well forget you ever asked that--bad idea.", "Terrible choice.", "No. Just no."]
     var allAnswers = [[String]]()
     
     var labelStage = 0
@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.allAnswers = [positiveAnswers, middleAnswers, negativeAnswers]
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
@@ -71,7 +71,7 @@ class ViewController: UIViewController {
             })
         }
     }
-
-
+    
+    
 }
 

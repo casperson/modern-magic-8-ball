@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F4FC340C1E5BBA87009C1292 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FC340B1E5BBA87009C1292 /* AppDelegate.swift */; };
-		F4FC340E1E5BBA87009C1292 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FC340D1E5BBA87009C1292 /* ViewController.swift */; };
-		F4FC34111E5BBA87009C1292 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FC340F1E5BBA87009C1292 /* Main.storyboard */; };
-		F4FC34131E5BBA87009C1292 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4FC34121E5BBA87009C1292 /* Assets.xcassets */; };
-		F4FC34161E5BBA87009C1292 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FC34141E5BBA87009C1292 /* LaunchScreen.storyboard */; };
+		F4FC342A1E5CD3F2009C1292 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FC34291E5CD3F2009C1292 /* AppDelegate.swift */; };
+		F4FC342C1E5CD3F2009C1292 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FC342B1E5CD3F2009C1292 /* ViewController.swift */; };
+		F4FC342F1E5CD3F2009C1292 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FC342D1E5CD3F2009C1292 /* Main.storyboard */; };
+		F4FC34311E5CD3F2009C1292 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4FC34301E5CD3F2009C1292 /* Assets.xcassets */; };
+		F4FC34341E5CD3F2009C1292 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4FC34321E5CD3F2009C1292 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F4FC34081E5BBA87009C1292 /* Magic 8-Ball.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic 8-Ball.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4FC340B1E5BBA87009C1292 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F4FC340D1E5BBA87009C1292 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F4FC34101E5BBA87009C1292 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F4FC34121E5BBA87009C1292 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F4FC34151E5BBA87009C1292 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F4FC34171E5BBA87009C1292 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4FC34261E5CD3F2009C1292 /* Modern Magic 8-Ball.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Modern Magic 8-Ball.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4FC34291E5CD3F2009C1292 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F4FC342B1E5CD3F2009C1292 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F4FC342E1E5CD3F2009C1292 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F4FC34301E5CD3F2009C1292 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F4FC34331E5CD3F2009C1292 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F4FC34351E5CD3F2009C1292 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F4FC34051E5BBA87009C1292 /* Frameworks */ = {
+		F4FC34231E5CD3F2009C1292 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F4FC33FF1E5BBA86009C1292 = {
+		F4FC341D1E5CD3F2009C1292 = {
 			isa = PBXGroup;
 			children = (
-				F4FC340A1E5BBA87009C1292 /* Magic 8-Ball */,
-				F4FC34091E5BBA87009C1292 /* Products */,
+				F4FC34281E5CD3F2009C1292 /* Modern Magic 8-Ball */,
+				F4FC34271E5CD3F2009C1292 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F4FC34091E5BBA87009C1292 /* Products */ = {
+		F4FC34271E5CD3F2009C1292 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F4FC34081E5BBA87009C1292 /* Magic 8-Ball.app */,
+				F4FC34261E5CD3F2009C1292 /* Modern Magic 8-Ball.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F4FC340A1E5BBA87009C1292 /* Magic 8-Ball */ = {
+		F4FC34281E5CD3F2009C1292 /* Modern Magic 8-Ball */ = {
 			isa = PBXGroup;
 			children = (
-				F4FC340B1E5BBA87009C1292 /* AppDelegate.swift */,
-				F4FC340D1E5BBA87009C1292 /* ViewController.swift */,
-				F4FC340F1E5BBA87009C1292 /* Main.storyboard */,
-				F4FC34121E5BBA87009C1292 /* Assets.xcassets */,
-				F4FC34141E5BBA87009C1292 /* LaunchScreen.storyboard */,
-				F4FC34171E5BBA87009C1292 /* Info.plist */,
+				F4FC34291E5CD3F2009C1292 /* AppDelegate.swift */,
+				F4FC342B1E5CD3F2009C1292 /* ViewController.swift */,
+				F4FC342D1E5CD3F2009C1292 /* Main.storyboard */,
+				F4FC34301E5CD3F2009C1292 /* Assets.xcassets */,
+				F4FC34321E5CD3F2009C1292 /* LaunchScreen.storyboard */,
+				F4FC34351E5CD3F2009C1292 /* Info.plist */,
 			);
-			path = "Magic 8-Ball";
+			path = "Modern Magic 8-Ball";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F4FC34071E5BBA87009C1292 /* Magic 8-Ball */ = {
+		F4FC34251E5CD3F2009C1292 /* Modern Magic 8-Ball */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4FC341A1E5BBA87009C1292 /* Build configuration list for PBXNativeTarget "Magic 8-Ball" */;
+			buildConfigurationList = F4FC34381E5CD3F2009C1292 /* Build configuration list for PBXNativeTarget "Modern Magic 8-Ball" */;
 			buildPhases = (
-				F4FC34041E5BBA87009C1292 /* Sources */,
-				F4FC34051E5BBA87009C1292 /* Frameworks */,
-				F4FC34061E5BBA87009C1292 /* Resources */,
+				F4FC34221E5CD3F2009C1292 /* Sources */,
+				F4FC34231E5CD3F2009C1292 /* Frameworks */,
+				F4FC34241E5CD3F2009C1292 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Magic 8-Ball";
-			productName = "Magic 8-Ball";
-			productReference = F4FC34081E5BBA87009C1292 /* Magic 8-Ball.app */;
+			name = "Modern Magic 8-Ball";
+			productName = "Modern Magic 8-Ball";
+			productReference = F4FC34261E5CD3F2009C1292 /* Modern Magic 8-Ball.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F4FC34001E5BBA86009C1292 /* Project object */ = {
+		F4FC341E1E5CD3F2009C1292 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Braden Casperson";
 				TargetAttributes = {
-					F4FC34071E5BBA87009C1292 = {
+					F4FC34251E5CD3F2009C1292 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = F4FC34031E5BBA86009C1292 /* Build configuration list for PBXProject "Magic 8-Ball" */;
+			buildConfigurationList = F4FC34211E5CD3F2009C1292 /* Build configuration list for PBXProject "Modern Magic 8-Ball" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = F4FC33FF1E5BBA86009C1292;
-			productRefGroup = F4FC34091E5BBA87009C1292 /* Products */;
+			mainGroup = F4FC341D1E5CD3F2009C1292;
+			productRefGroup = F4FC34271E5CD3F2009C1292 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F4FC34071E5BBA87009C1292 /* Magic 8-Ball */,
+				F4FC34251E5CD3F2009C1292 /* Modern Magic 8-Ball */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F4FC34061E5BBA87009C1292 /* Resources */ = {
+		F4FC34241E5CD3F2009C1292 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4FC34161E5BBA87009C1292 /* LaunchScreen.storyboard in Resources */,
-				F4FC34131E5BBA87009C1292 /* Assets.xcassets in Resources */,
-				F4FC34111E5BBA87009C1292 /* Main.storyboard in Resources */,
+				F4FC34341E5CD3F2009C1292 /* LaunchScreen.storyboard in Resources */,
+				F4FC34311E5CD3F2009C1292 /* Assets.xcassets in Resources */,
+				F4FC342F1E5CD3F2009C1292 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F4FC34041E5BBA87009C1292 /* Sources */ = {
+		F4FC34221E5CD3F2009C1292 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4FC340E1E5BBA87009C1292 /* ViewController.swift in Sources */,
-				F4FC340C1E5BBA87009C1292 /* AppDelegate.swift in Sources */,
+				F4FC342C1E5CD3F2009C1292 /* ViewController.swift in Sources */,
+				F4FC342A1E5CD3F2009C1292 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F4FC340F1E5BBA87009C1292 /* Main.storyboard */ = {
+		F4FC342D1E5CD3F2009C1292 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F4FC34101E5BBA87009C1292 /* Base */,
+				F4FC342E1E5CD3F2009C1292 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F4FC34141E5BBA87009C1292 /* LaunchScreen.storyboard */ = {
+		F4FC34321E5CD3F2009C1292 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F4FC34151E5BBA87009C1292 /* Base */,
+				F4FC34331E5CD3F2009C1292 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F4FC34181E5BBA87009C1292 /* Debug */ = {
+		F4FC34361E5CD3F2009C1292 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		F4FC34191E5BBA87009C1292 /* Release */ = {
+		F4FC34371E5CD3F2009C1292 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -256,25 +256,25 @@
 			};
 			name = Release;
 		};
-		F4FC341B1E5BBA87009C1292 /* Debug */ = {
+		F4FC34391E5CD3F2009C1292 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Magic 8-Ball/Info.plist";
+				INFOPLIST_FILE = "Modern Magic 8-Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.BC.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.BC.Modern-Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		F4FC341C1E5BBA87009C1292 /* Release */ = {
+		F4FC343A1E5CD3F2009C1292 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Magic 8-Ball/Info.plist";
+				INFOPLIST_FILE = "Modern Magic 8-Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.BC.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.BC.Modern-Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -283,24 +283,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F4FC34031E5BBA86009C1292 /* Build configuration list for PBXProject "Magic 8-Ball" */ = {
+		F4FC34211E5CD3F2009C1292 /* Build configuration list for PBXProject "Modern Magic 8-Ball" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F4FC34181E5BBA87009C1292 /* Debug */,
-				F4FC34191E5BBA87009C1292 /* Release */,
+				F4FC34361E5CD3F2009C1292 /* Debug */,
+				F4FC34371E5CD3F2009C1292 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4FC341A1E5BBA87009C1292 /* Build configuration list for PBXNativeTarget "Magic 8-Ball" */ = {
+		F4FC34381E5CD3F2009C1292 /* Build configuration list for PBXNativeTarget "Modern Magic 8-Ball" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F4FC341B1E5BBA87009C1292 /* Debug */,
-				F4FC341C1E5BBA87009C1292 /* Release */,
+				F4FC34391E5CD3F2009C1292 /* Debug */,
+				F4FC343A1E5CD3F2009C1292 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F4FC34001E5BBA86009C1292 /* Project object */;
+	rootObject = F4FC341E1E5CD3F2009C1292 /* Project object */;
 }
